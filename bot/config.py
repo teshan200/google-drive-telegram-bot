@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1885113076:AAGVy1LBG4xAi5Zn5xslD-m6JElsFCPPMN0"
+    APP_ID = "3098861"
+    API_HASH = "9e962078616c1301bed805f82323f611"
+    DATABASE_URL = "postgres://krkttciktrjiom:4468472dd62d78e385f5f2edaca78d1a603a02f6eb6c1394a905915f40e25de0@ec2-54-225-228-142.compute-1.amazonaws.com:5432/debhfvmdmviufi"
+    SUDO_USERS = "1784057461" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "t.me/techeratorrent"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
